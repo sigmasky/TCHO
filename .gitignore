@@ -1,0 +1,17 @@
+.vs/
+obj/
+# bin/*.dll
+# bin/*.exe
+bin/*.exp
+bin/*.ilk
+bin/*.iobj
+bin/*.ipdb
+bin/*.lib
+bin/*.pdb
+bin/data/*.gitkeep
+*.make
+*.rc
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
