@@ -8,7 +8,7 @@ A mini openframeworks game. Two players race against each other to collect the p
 
 ## 🧠 Rationate
 
-To demostrate architectures and object-oriented patterns for computer game design. Animation, simulation, user interfaces, graphics, and intelligent behaviors.
+To demonstrate architectures and object-oriented patterns for computer game design. Animation, simulation, user interfaces, graphics, and intelligent behaviors.
 
 ## 💻 Technologies
 
